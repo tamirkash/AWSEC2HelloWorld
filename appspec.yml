@@ -1,5 +1,8 @@
 version: 0.0
 os: linux
+files:
+  - source: /
+    destination: /var/HelloWorld
 hooks:
   ApplicationStart:
     - location: scripts/start_server
