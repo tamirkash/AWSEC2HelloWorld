@@ -1,5 +1,4 @@
 #!/bin/bash
-#PATH="/home/ec2-user/.nvm/versions/node/v6.11.5/bin/:$PATH"
 cd /var/HelloWorld
 pm2 start index.js
 
