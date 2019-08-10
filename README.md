@@ -1,1 +1,1 @@
-Hello World app to be deployed on AWS EC2
+Hello world app to be deployed on AWS EC2
